@@ -1,0 +1,3 @@
+name
+placeholder email address
+placeholder phone nummber
